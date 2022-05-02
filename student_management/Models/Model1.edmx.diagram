@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="49c4c7bdb11549608795736ff0ed0ee4" Name="Diagram1">
         <EntityTypeShape EntityType="studModel.batch" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="studModel.course" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="studModel.course" Width="1.5" PointX="5.375" PointY="0.875" IsExpanded="true" />
         <EntityTypeShape EntityType="studModel.registration" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="studModel.user" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
         <AssociationConnector Association="studModel.FK_registration_batch" ManuallyRouted="false" />
